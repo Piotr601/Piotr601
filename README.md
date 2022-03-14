@@ -4,8 +4,8 @@ I'm a student in Wroclaw University of Science and Technology. Here You can find
 
 ## About me
 - 🐍 I'm currently learning Python
-- 🖋 Looking for a job
-- 🎓 Ending First Degree
+- 🤖 Learning Testing 
+- 🎓 Ended First Degree
 
 ## Interests
 - 📸 Photographing
